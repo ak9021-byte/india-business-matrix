@@ -1,0 +1,16 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Sensitive
+backend/.env
+backend/*.xlsx
+
+# Next.js
+frontend/.next/
+frontend/node_modules/
+
+# Frontend env
+frontend/.env.local
